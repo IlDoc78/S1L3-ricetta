@@ -1,0 +1,81 @@
+body {
+  margin: 0;
+}
+
+header {
+    text-align: center;
+}
+main {
+  margin-left: 600px;
+  margin-right: 600px;
+  
+}
+
+h1 {
+    text-align: center;
+    font-size: 30px;
+}
+.sottologo {
+  background-color: rgba(255, 217, 0, 0.13);
+  color: #777;
+  border-top: 1px solid orange;
+}
+
+.sottologo1 {
+  margin: 0;
+  padding: 10px;
+}
+
+.fabulus {
+  font-weight: 700;
+}
+
+.focaccia {
+  border-radius: 10px;
+}
+
+.video {
+  width: 720px;
+  height: 480px;
+}
+
+.linkvideo {
+    color: rgba(128, 128, 128, 0.651);
+    
+}
+
+.primacitazione {
+    font-style: normal;
+    
+}
+
+.featured {
+    color: red;
+   
+    
+}
+
+.bomba{
+    border-left: 2px solid orange;
+    padding-left: 15px;
+}
+
+.piedipagina {
+    margin-left: 600px;
+    margin-right: 600px;
+}
+
+.ing1 {
+    padding-bottom: 15px;
+    border-bottom: 2px solid rgba(0, 0, 255, 0.295);
+}
+
+.met1 {
+    padding-bottom: 15px;
+    border-bottom: 2px solid rgba(0, 0, 255, 0.295);
+
+}
+
+.make {
+    display: inline;
+}
